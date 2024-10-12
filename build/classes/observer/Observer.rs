@@ -1,0 +1,4 @@
+Jefe
+JugadorConcreto
+Main
+Jugador
